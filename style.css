@@ -1,0 +1,59 @@
+body {
+	font-family: Arial;
+}
+
+#side-profile{
+	background-color: blue;
+}
+
+
+#side-all{
+
+	background-color: green;
+
+}
+
+
+#side-following{
+		background-color: purple;
+
+}
+#side-followed{
+	background-color: orange;
+}
+
+.side-box{
+	color: white;
+	font-size: 16px;
+	text-align:center;
+}
+
+.post{
+	background-color:navy;
+	color:white;
+	font-size:16px;
+}
+
+#post-form{
+	text-align:center;
+}
+
+#post-form textarea{
+	font-size: 16px;
+}
+
+#post-form button{
+	color: white;
+	background-color: green;
+	font-size:16px;
+	line-height: 45px;
+}
+
+#wrapper a{
+	color:white;
+	text-decoration: none;
+}
+
+#wrapper a:hover{
+	text-decoration: underline;
+}
